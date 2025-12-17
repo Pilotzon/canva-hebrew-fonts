@@ -25,11 +25,10 @@ A curated collection of **667 Hebrew fonts** from Canva, covering all available 
 
 ---
 
-## 💡 Usage Tips
+## 💡 Installation Tips
 
-- Preview fonts before use to find the perfect style.  
-- Combine different weights for a professional typographic hierarchy.  
-- Great for presentations, posters, social media designs, and more.  
+- To install all fonts at once, just drag them into C:\Windows\Fonts,
+- instaed of installing each one manually - don't be like me :).
 
 ---
 
