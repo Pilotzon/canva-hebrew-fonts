@@ -1,6 +1,9 @@
 # 🎨 All Canva Hebrew Fonts
 
-A curated collection of **667 Hebrew fonts** from Canva, covering almost all available weights. Perfect for designers, typographers, and creative projects!  
+A curated collection of **667 Hebrew fonts** from Canva, covering all available weights. Perfect for designers, typographers, and creative projects!  
+
+> [!NOTE]
+> Some fonts only have the regular weight.
 
 ---
 
