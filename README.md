@@ -28,7 +28,7 @@ A curated collection of **667 Hebrew fonts** from Canva, covering all available 
 ## 💡 Installation Tips
 
 - To install all fonts at once, just drag them into C:\Windows\Fonts,
-- instaed of installing each one manually - don't be like me :).
+instaed of installing each one manually - don't be like me :).
 
 ---
 
